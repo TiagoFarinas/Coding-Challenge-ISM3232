@@ -9,8 +9,8 @@ console.log(isActive)
 //Task 2
 let products = ["Desk", "Chair", "Bed"]
 const productDetails = {
-name: John,
-price: 500.00,
-inStock: yes
+    name: "John",
+    price: 500.00,
+    inStock: "yes",
 }
 console.log(products, productDetails)
