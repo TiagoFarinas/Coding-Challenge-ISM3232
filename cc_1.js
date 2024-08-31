@@ -14,3 +14,16 @@ const productDetails = {
     inStock: "yes",
 }
 console.log(products, productDetails)
+
+//Task 3
+let accountBalance = 100
+accountBalance += 100
+console.log(accountBalance)
+accountBalance -= 50
+console.log(accountBalance)
+accountBalance *= 4
+console.log(accountBalance)
+accountBalance /= 6
+console.log(accountBalance)
+accountBalance %= 10
+console.log(accountBalance)
