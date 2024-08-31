@@ -37,3 +37,10 @@ console.log(employeeScore1 >= employeeScore2)
 console.log(employeeScore1 <= employeeScore2)
 console.log(employeeScore1 === employeeScore2)
 console.log(employeeScore1 !== employeeScore2)
+
+//Task 5
+let hasKeyCard = true
+let hasPermission = false
+console.log(hasKeyCard && hasPermission)
+console.log(hasKeyCard || hasPermission)
+console.log(!hasPermission)
